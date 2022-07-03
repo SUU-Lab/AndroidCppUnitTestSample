@@ -1,6 +1,6 @@
 # AndroidCppUnitTestSample
 
-
+[![Main](https://github.com/SUU-Lab/AndroidCppUnitTestSample/actions/workflows/main.yml/badge.svg)](https://github.com/SUU-Lab/AndroidCppUnitTestSample/actions/workflows/main.yml)
 
 本サンプルは、Android端末またはエミュレータ上でC++のテストを実行します。<br>
 This sample runs C++ tests on an Android terminal or emulator.
